@@ -1,0 +1,45 @@
+.text p{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+.medicine{
+    text-align: center;
+}
+.medicine button{
+    border: none;
+    background-color: #522C5BFF;
+    border-radius: 5px;
+    color: white;
+    padding: 1rem 1.5rem;
+    font-weight: bolder;
+    display: flex;
+}
+.medicine .buttons{
+    display: flex;
+    justify-content: center;
+}
+.s{
+    border: none;
+    background-color: #522C5BFF;
+    border-radius: 5px;
+    color: white;
+    padding: 1rem 1.5rem;
+    font-weight: bolder;
+    display: flex;
+    margin: 0px 15px;
+}
+.down{
+    text-align: center;
+    display: flex;
+    justify-content: end;
+}
+i{
+    font-size: 2.5rem;
+    text-align: center;
+    display: block;
+}
+p{
+    text-align: center;
+}
